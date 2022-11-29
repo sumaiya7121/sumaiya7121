@@ -1,25 +1,13 @@
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sumaiya7121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13490
-Fork on GitHub
-3546
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sumaiya Kabir</h1>
 <h3 align="center">Web developer</h3>
+####I am a diligent, committed to quality and highly skilled Web Developer, I provide an exceptional service built on trust and a determination to deliver client satisfaction.
+
+Self-motivated, I do whatever it takes to meet your deadlines and needs. I have an extensive skill base and actively seek out new training and knowledge continually to expand on my abilities and performance.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya7121&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya7121" /> </p>
 
@@ -40,27 +28,3 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya7121&" alt="sumaiya7121" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
