@@ -1,12 +1,13 @@
 
 
-(https://i.ibb.co/fkrD6gt/1-01.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Sumaiya Kabir</h1>
 <h3 align="center">Web developer</h3>
 ####I am a diligent, committed to quality and highly skilled Web Developer, I provide an exceptional service built on trust and a determination to deliver client satisfaction.
 
 Self-motivated, I do whatever it takes to meet your deadlines and needs. I have an extensive skill base and actively seek out new training and knowledge continually to expand on my abilities and performance.
+(https://i.ibb.co/fkrD6gt/1-01.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya7121&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya7121" /> </p>
